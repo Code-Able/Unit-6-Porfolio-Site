@@ -1,0 +1,24 @@
+extends layout.pug
+
+block content
+
+  article.portfolio-intro
+
+    h1 Hi Potential Employers!  Let's make the web great together!
+
+    p A portfolio of recent projects
+
+
+  article.portfolio-project-thumbs
+    .projects-box.box.grid
+
+       each project in projects
+        .cell
+          a(href=`/project/${project.id}`)
+            img.thumbnail(src=`${project.image_urls[0]}`, alt=`${project.project_name} Thumbnail`)
+            h5 #{project.project_name}
+
+
+      
+
+

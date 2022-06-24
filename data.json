@@ -1,0 +1,90 @@
+{
+    "projects" : [
+        {
+            "id" : 0,
+            "project_name" : "Word Phrase Hunt Game",
+            "description" : "Description goes here",
+            "technologies" : [
+                "Javascript",
+                "Html",
+                "CSS",
+                "OOP"
+            ],
+            "live_link" : "https://github.com/Code-Able/OOP-Game-Teamtreehouse",
+            "github_link" : "https://github.com/Code-Able/OOP-Game-Teamtreehouse",
+            "image_urls" : [
+                "/static/images/unit-4-project-thumbnail.png",
+                "/static/images/unit-4-project-full-size-1.png"
+            ]
+        },
+        {
+            "id" : 1,
+            "project_name" : "Random Quote Generator",
+            "description" : "A web app that randomly generates an inspirational quote",
+            "technologies" : [
+                "Javascript",
+                "Html",
+                "CSS"
+            ],
+            "live_link" : "https://github.com/Code-Able/Random-Quote-Generator",
+            "github_link" : "https://github.com/Code-Able/Random-Quote-Generator",
+            "image_urls" : [
+                "/static/images/unit-1-project-thumbnail.png",
+                "/static/images/unit-1-project-large-1.png",
+                "/static/images/unit-1-project-large-2.png"
+            ]
+        },
+        {
+            "id" : 2,
+            "project_name" : "Employee Directory",
+            "description" : "An employee directory that uses modals.",
+            "technologies" : [
+                "Javascript",
+                "Html",
+                "CSS",
+                "API"
+            ],
+            "live_link" : "https://github.com/Code-Able/Unit-5-Employee-Directory",
+            "github_link" : "https://github.com/Code-Able/Unit-5-Employee-Directory",
+            "image_urls" : [
+                "/static/images/unit-5-thumbnail.png",
+                "/static/images/unit-5-full.png"
+            ]
+        },
+        {
+            "id" : 3,
+            "project_name" : "Data Pagination",
+            "description" : "A directory that dynamically paginates",
+            "technologies" : [
+                "Javascript",
+                "Html",
+                "CSS"
+                
+            ],
+            "live_link" : "https://github.com/Code-Able/Data-Pagination-and-Filtering",
+            "github_link" : "https://github.com/Code-Able/Data-Pagination-and-Filtering",
+            "image_urls" : [
+                "/static/images/unit-2-thumbnail.png",
+                "/static/images/unit-2-full.png"
+            ]
+        },
+        {
+            "id" : 4,
+            "project_name" : "Interactive Form",
+            "description" : "An interactive form designed with accessibility in mind",
+            "technologies" : [
+                "Javascript",
+                "Html",
+                "CSS",
+                "Accessibility"
+                
+            ],
+            "live_link" : "https://github.com/Code-Able/Interactive-Form",
+            "github_link" : "https://github.com/Code-Able/Interactive-Form",
+            "image_urls" : [
+                "/static/images/unit-3-thumbnail.png",
+                "/static/images/unit-3-full.png"
+            ]
+        }
+    ]
+ }
